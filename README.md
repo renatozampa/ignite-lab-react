@@ -4,4 +4,4 @@
 ##### Site feito em acompanhamento das aulas da Rocketseat na sua semana de programa Ignite Lab
 
 ## Experiência
-#### Foi muito desafiador, fazia um tempo que não praticava React e no curso usamos uma tecnologia que nunca tinha mexido. No final, tudo certo, código bonito e funcional, além de muito aprendizado e satisfação com o projeto 
+#### Foi um projeto para agregar um otimo valor para meus conhecimentos em React, ja que alem de utiliza-lo, usamo o tailwind para a estilizaçao do projeto
